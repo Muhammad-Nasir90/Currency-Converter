@@ -4,7 +4,7 @@
 import inquirer from "inquirer";
 import chalk from "chalk";
 
-console.log(chalk.greenBright(`\n\tWellcome to Currency Converter 😊\n\t`))
+console.log(chalk.greenBright(`\n\n\tWellcome to Currency Converter 😊\n\n\t`))
 
 const currency: any = {
   USD: 1,  
