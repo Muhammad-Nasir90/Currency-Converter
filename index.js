@@ -1,7 +1,7 @@
 #! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
-console.log(chalk.greenBright(`\n\tWellcome to Currency Converter 😊\n\t`));
+console.log(chalk.greenBright(`\n\n\tWellcome to Currency Converter 😊\n\n\t`));
 const currency = {
     USD: 1,
     EUR: 0.92,
